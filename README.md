@@ -4,4 +4,4 @@ This repo contains documentation on how to use Notebooks.ai. If you have questio
 
 Quick links:
 
-* [Running webapps on Notebooks.ai](wiki/Running-webapps-on-RMOTR-Notebooks)
+* [Running webapps on Notebooks.ai](https://github.com/notebooks-ai/notebooks-manual/wiki/Running-webapps-on-Notebooks.ai)
